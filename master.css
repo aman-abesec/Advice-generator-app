@@ -1,0 +1,51 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  font-family: manrope;
+  text-align: center;
+  background-color: hsl(217, 19%, 24%);
+}
+.container{
+  width:350px;
+  background-color:hsl(217, 19%, 30%);
+  position: absolute;
+  transform: translate(-50%,-50%);
+  top:50%;
+  left:50%;
+  border-radius: 10px;
+}
+#advice-id{
+  font-size: 10px;
+  text-transform:uppercase;
+  color: hsl(150, 100%, 66%);
+  padding: 20px 0px 20px 0px;
+  letter-spacing:3px;
+}
+#advice{
+  width: 80%;
+  margin: 0 auto 0 auto;
+  font-size: 20px;
+  color: hsl(193, 38%, 86%);
+  font-weight: 800;
+}
+.seperater{
+  width:300px;
+  margin:0 auto 0 auto;
+  padding-top:20px;
+}
+.click-btn{
+  width:25px;
+  height:25px;
+  text-align: center;
+  position: relative;
+  background-color: hsl(150, 100%, 66%);
+  padding: 10px;
+  border-radius: 50%;
+  left:150px;
+  top:20px;
+}
+.click-btn:hover{
+  box-shadow:0 0 20px hsl(150, 100%, 66%);
+}
