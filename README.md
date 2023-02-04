@@ -26,6 +26,7 @@ Users should be able to:
 - Generate a new piece of advice by clicking the dice icon
 
 ### Screenshot
+![image](https://user-images.githubusercontent.com/92168231/216771989-53908c07-bf54-4197-80f6-30e6e4b6d436.png)
 
 ### Links
 
