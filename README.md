@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Cllick]()
+- Solution URL: [Cllick](https://github.com/aman-abesec/Advice-generator-app)
 - Live Site URL: [Click]()
 
 ## My process
